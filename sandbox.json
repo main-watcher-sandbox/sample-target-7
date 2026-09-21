@@ -5,7 +5,7 @@
   "hang_test": false,
   "flaky_test": false,
   "inspect_environment": false,
-  "fail_restore": false,
+  "fail_restore": true,
   "fail_upload": false,
   "hang_upload": false,
   "hang_upload_forever": false,
