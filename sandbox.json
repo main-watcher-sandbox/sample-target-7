@@ -1,6 +1,7 @@
 {
   "failing_tests": [
-    "Alpha"
+    "Alpha",
+    "Beta"
   ],
   "timed_tests": false,
   "slow_suite_minutes": 4,
