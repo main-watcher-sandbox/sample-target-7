@@ -1,9 +1,7 @@
 {
-  "failing_tests": [
-    "Beta"
-  ],
-  "timed_tests": false,
-  "slow_suite_minutes": 4,
+  "failing_tests": [],
+  "timed_tests": true,
+  "slow_suite_minutes": 0,
   "hang_test": false,
   "flaky_test": false,
   "inspect_environment": false,
