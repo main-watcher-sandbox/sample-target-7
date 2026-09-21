@@ -1,6 +1,5 @@
 {
   "failing_tests": [
-    "Alpha",
     "Beta"
   ],
   "timed_tests": false,
